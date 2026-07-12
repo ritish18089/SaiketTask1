@@ -66,7 +66,7 @@ QuizMaster is an Android-based placement preparation application developed using
 - User Statistics
 - Quiz Results
 
-## Technology Stack
+## 🛠 Technology Stack
 
 ### Frontend
 - Kotlin
@@ -89,7 +89,7 @@ QuizMaster is an Android-based placement preparation application developed using
 - Navigation Compose
 - DataStore Preferences
 
-## Architecture
+## 📂 Architecture
 
 ### Presentation Layer
 - **Responsible for:** UI Screens,Navigation,User Interaction
@@ -106,10 +106,10 @@ QuizMaster is an Android-based placement preparation application developed using
 - **Stores:**  Users,Questions,Quiz Results,Statistics
 <img src="https://github.com/ritish18089/SaiketTask1/blob/main/Screenshot%202026-07-12%20133053.png" height="1000px" width="1000px">
 
-## Application Work Flow
+## 🎯 Application Work Flow
 <img src="https://github.com/ritish18089/SaiketTask1/blob/main/qa.png" height="1000px" width="1000px">
 
-## Testing Strategy
+## 🧪 Testing Strategy
 
 ### Unit Testing
 - **Tests:** Score Calculation,Question Validation,Statistics Calculation
@@ -129,7 +129,7 @@ QuizMaster is an Android-based placement preparation application developed using
 ### Compatibility Testing
 - **Devices:** Android 10+,Android 11,Android 12,Android 13,Android 14,Android 15
 
-## Screenshots
+## 📸 Screenshots
 
 ### 🔐 Login Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Login.jpeg"  height="500px"></p>
@@ -160,4 +160,26 @@ QuizMaster is an Android-based placement preparation application developed using
 
 ### 👤 Profile Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Profile.jpeg" height="500px"></p>
+
+## ⚙ Installation
+
+### Requirements
+- Android Studio
+- JDK 17
+- Firebase Project
+- Android SDK
+
+### Steps
+- Clone Repository: git clone https://github.com/ritish18089/SaiketTask1.git
+- Open Android Studio
+- Sync Gradle
+- Connect Firebase
+- Run Application
+
+## 🎯Future Enhancements
+- AI-Based Personalized Learning
+- Leaderboard & Achievements
+- Advanced Performance Analytics
+- Multi-Language Support
+- Daily Challenges & Notifications
 
