@@ -132,32 +132,32 @@ QuizMaster is an Android-based placement preparation application developed using
 ## Screenshots
 
 ### 🔐 Login Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Login.jpeg"  height="500px"></p>
 
 ### 📝 Register Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Registration.jpeg" height="500px"></p>
 
 ### 🏠 Home Screen
-<img src="">
-
-### 🔍 Serach Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Home.jpeg" height="500px"></p>
 
 ### 📚 Categories Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Category.jpeg" height="500px"></p>
+
+### 🔍 Serach Screen
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Search.jpeg" height="500px"></p>
 
 ### 📖 Practice Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Practice.jpeg" height="500px"></p>
 
 ### 📖 Quiz Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Quiz.jpeg" height="500px"></p>
 
 ### 📊 Result Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Result.jpeg" height="500px"></p>
 
 ### 📈 Review Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Review.jpeg" height="500px"></p>
 
 ### 👤 Profile Screen
-<img src="">
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Profile.jpeg" height="500px"></p>
 
