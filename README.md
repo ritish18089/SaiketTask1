@@ -104,3 +104,60 @@ QuizMaster is an Android-based placement preparation application developed using
 
 ### Firebase Layer
 - **Stores:**  Users,Questions,Quiz Results,Statistics
+<img src="https://github.com/ritish18089/SaiketTask1/blob/main/Screenshot%202026-07-12%20133053.png" height="1000px" width="1000px">
+
+## Application Work Flow
+<img src="https://github.com/ritish18089/SaiketTask1/blob/main/qa.png" height="1000px" width="1000px">
+
+## Testing Strategy
+
+### Unit Testing
+- **Tests:** Score Calculation,Question Validation,Statistics Calculation
+
+### UI Testing
+- **Tests:** Login,Navigation,Buttons,Search,Theme
+
+### Integration Testing
+- **Tests:** Firebase Authentication,Firestore,Quiz Submission,Statistics Update
+
+### Functional Testing
+- **Verified:** Login,Registration,Practice Mode,Quiz Mode,Search,Profile,Logout
+
+### Performance Testing
+- **Measured:** App Launch Time,Firestore Read Speed,Firestore Write Speed,Screen Navigation
+
+### Compatibility Testing
+- **Devices:** Android 10+,Android 11,Android 12,Android 13,Android 14,Android 15
+
+## Screenshots
+
+### 🔐 Login Screen
+<img src="">
+
+### 📝 Register Screen
+<img src="">
+
+### 🏠 Home Screen
+<img src="">
+
+### 🔍 Serach Screen
+<img src="">
+
+### 📚 Categories Screen
+<img src="">
+
+### 📖 Practice Screen
+<img src="">
+
+### 📖 Quiz Screen
+<img src="">
+
+### 📊 Result Screen
+<img src="">
+
+### 📈 Review Screen
+<img src="">
+
+### 👤 Profile Screen
+<img src="">
+
