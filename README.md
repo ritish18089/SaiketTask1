@@ -161,6 +161,9 @@ QuizMaster is an Android-based placement preparation application developed using
 ### 👤 Profile Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Profile.jpeg" height="500px"></p>
 
+### Database
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask1/blob/main/Profile.jpeg" height="500px"></p>
+
 ## ⚙ Installation
 
 ### Requirements
