@@ -1,21 +1,106 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# QuizMaster – Challenge Your Knowledge
+A brief description of what this project does and who it's for.
 
-# Run and deploy your AI Studio app
+##  🌟 Overview
+QuizMaster is an Android-based placement preparation application developed using modern Android technologies and Firebase. The application provides students with an interactive platform to practice aptitude, technical, programming, and general knowledge questions through two different learning modes. The application is designed to help students prepare for campus placements and competitive examinations by providing structured quizzes, detailed explanations, performance tracking, and personalized learning.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+### User Authentication
+- Email & Password Registration
+- Secure Login
+- Forgot Password
+- Logout
+- Firebase Authentication
+  
+### Home Screen
+- Personalized greeting
+- Search functionality
+- Popular categories
+- Quick navigation
 
-View your app in AI Studio: https://ai.studio/apps/666aa4f0-0b78-4510-8f99-77813845a56f
+### Practice Mode
+- 30 MCQs per category
+- Instant answer checking
+- Detailed explanations
+- Unlimited attempts
+- Learning-oriented
 
-## Run Locally
+### Quiz Mode
+- Different set of 30 MCQs
+- Timer-based quizzes
+- Final score calculation
+- Result analysis
+- Performance tracking
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+### Categories
+- **Aptitude:** NumberSystem,Average,Ratio&Proportion,Calendars,BloodRelation,Coding-Decoding,Seating Arrangement,NumberSeries,Time&Work,Age
+- **Technical:** Database,ComputerNetworks,OperatingSystems
+- **Programming:** Java,Python,C,React,JavaScript,TypeScript
+- **GeneralKnowledge:** Countries,Subjects,CurrentAffairs
 
+### Search
+- Search questions
+- Search categories
+- Fast filtering
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+### User Profile
+- Profile information
+- Theme settings
+- Quiz statistics
+- Performance history
+
+### Dark Mode
+- Light Theme
+- Dark Theme
+- Theme persistence
+
+### Statistics
+- Total Quizzes
+- Total Questions
+- Average Score
+- Best Score
+
+### Firebase Integration
+- Authentication
+- Firestore Database
+- User Statistics
+- Quiz Results
+
+## Technology Stack
+
+### Frontend
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Navigation Compose
+
+### Backend
+- Firebase
+
+### Database
+- **Cloud Firestore:** Collections:users,categories,questions,quizResults
+
+### Libraries
+- Jetpack Compose
+- Material3
+- Firebase Authentication
+- Firebase Firestore
+- Kotlin Coroutines
+- Navigation Compose
+- DataStore Preferences
+
+## Architecture
+
+### Presentation Layer
+- **Responsible for:** UI Screens,Navigation,User Interaction
+- **Examples:** Home Screen,Practice Screen,Quiz Screen,Profile Screen
+
+### ViewModel Layer
+- **Responsible for:** Business Logic,State Management,Data Processing
+- **Examples:** QuizViewModel,ProfileViewModel
+
+### Repository Layer
+- **Responsible for:** Firestore communication,Authentication,CRUD operations
+
+### Firebase Layer
+- **Stores:**  Users,Questions,Quiz Results,Statistics
