@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster",
+  "description": "Premium educational quiz application with 41 categories and 1230 questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

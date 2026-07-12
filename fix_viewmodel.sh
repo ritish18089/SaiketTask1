@@ -1,0 +1,1 @@
+sed -i 's/val questions = QuizRepository.getQuestionsForCategory(categoryId)/val questions = QuizRepository.getQuestionsForCategory(categoryId)/' app/src/main/java/com/example/ui/screens/QuizViewModel.kt

@@ -1,0 +1,1 @@
+sed -i '/_state.value = _state.value.copy(isSubmitted = true)/i \        val correct = _state.value.questions.count { _state.value.selectedAnswers[it.id] == it.correctAnswer }\n        QuizRepository.saveQuizResult(_state.value.categoryId, correct, _state.value.questions.size)' app/src/main/java/com/example/ui/screens/QuizViewModel.kt

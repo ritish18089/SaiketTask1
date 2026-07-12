@@ -1,0 +1,2 @@
+sed -i 's/Log.e("AuthRepository", "Firebase init error", e)/Log.w("AuthRepository", "Firebase not configured. Falling back to unauthenticated.")/' app/src/main/java/com/example/data/AuthRepository.kt
+sed -i 's/Log.e("QuizRepository", "Firebase Firestore init error", e)/Log.w("QuizRepository", "Firebase not configured. Operating in local mode.")/' app/src/main/java/com/example/data/QuizRepository.kt
