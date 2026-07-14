@@ -89,6 +89,11 @@ QuizMaster is an Android-based placement preparation application developed using
 - Navigation Compose
 - DataStore Preferences
 
+## Development Tools
+- Android Studio
+- Firebase Console
+- Git & GitHub
+
 ## 📂 Architecture
 
 ### Presentation Layer
