@@ -188,5 +188,5 @@ QuizMaster is an Android-based placement preparation application developed using
 
 ## 📱Download APK
 Click below to download the latest version of QuizMaster
-[APK File](https://github.com/ritish18089/SaiketTask1/releases/download/v1.0.0/quizMasters.apk)
+[APK File](https://github.com/ritish18089/SaiketTask1/releases/download/v1.0.0/quizmastera.apk)
 
